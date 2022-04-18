@@ -81,5 +81,5 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: dipperpain/infra_actions:latest
+          tags: dipperpain/yamdb_final:latest
 
