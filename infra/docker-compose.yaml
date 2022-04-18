@@ -15,7 +15,7 @@ services:
     env_file:
       - ./.env
   web:
-    build: ../yamdb_final
+    build: https://hub.docker.com/layers/yamdb_final/dipperpain/yamdb_final/latest/images/sha256-1e9cf726a8878b8884c5a2b0287999994562677df68e601a38aef7c6a0901082?context=repo
     restart: always
     volumes:
       # Контейнер web будет работать с данными, хранящиеся в томе static_value, 
