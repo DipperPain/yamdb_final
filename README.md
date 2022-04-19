@@ -1,6 +1,6 @@
 # yamdb_final
 yamdb_final
-https://51.250.96.78/redoc/
+http://130.193.52.36/redoc/
 ![example workflow](https://github.com/DipperPain/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Title). Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список категорий (Category) может быть расширен (например, можно добавить категорию «Изобразительное искусство» или «Ювелирка»).
 
